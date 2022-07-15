@@ -14,13 +14,14 @@ This was created by using the DOM, functions, objects, and if statements.
 You may fork the index.html and open it in your browser of choice. Once in the browser you will see this scree with two buttons.
 The first one is "Add One" and the other one is "Start Game". 
 
-<img src="game.png" height="400"/>
+<img src="game.png" height="200"/>
+<br>
 
-+Click on "Add One" to create 2, 5, 10 or mor pacmen.
-+CLick on "Start Game" to see them bounce the walls of the screen and,
-+Click on "Start Game" again if you wan them to go faster.
++ Click on "Add One" to create 2, 5, 10 or mor pacmen.
++ CLick on "Start Game" to see them bounce the walls of the screen and,
++ Click on "Start Game" again if you wan them to go faster.
 
-
+<br>
 <img src="addingpacmen.png">
 
 
