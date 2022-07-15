@@ -10,11 +10,6 @@ Pacmen is a factory for making pacmen animations where each pacman that is added
 This was created by using the DOM, functions, objects, and if statements.
 
 
-
-The function Run wouldlater call another function CheckPageBounds() which helps "pacman" to head back to the left direction
-once it hits the pageWidth, and then once the position of pacman hits 0 on the X axis this functions allows to bounce to the right
-using if statements.
-
 <h2>Installation</h2>
 You may fork the index.html and open it in your browser of choice. Once in the browser you will see this scree with two buttons.
 The first one is "Add One" and the other one is "Start Game". 
