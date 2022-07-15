@@ -46,4 +46,4 @@ The goal is to practice using if statements, and editing the code by using the D
 
 This is an open source project.Enjoy!
 
-<img src="Pacmen Exercise/images/PacMan1.png" height="300"/>
+<img src="PacMan1.png" height="300"/>
