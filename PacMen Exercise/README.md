@@ -14,7 +14,7 @@ This was created by using the DOM, functions, objects, and if statements.
 You may fork the index.html and open it in your browser of choice. Once in the browser you will see this scree with two buttons.
 The first one is "Add One" and the other one is "Start Game". 
 
-<img src="game.png|width="200" height="400"">
+<img src="game.png" width="200" height="400"/>
 
 +Click on "Add One" to create 2, 5, 10 or mor pacmen.
 +CLick on "Start Game" to see them bounce the walls of the screen and,
