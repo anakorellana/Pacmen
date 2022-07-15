@@ -1,9 +1,53 @@
-# pacmen
-Factory for making pacmen
-You are given a starter.html code.
-When button "make one" is pressed you need to complete the code 
-to position the new pacman image and add it to the "game" div. It is then added to the array of pacmen, which keeps track of the position and velocity of each pacman.
-You also need to make each pacman bounce off any wall it hits. 
-Start by getting at least one pacman positioned and viewable. 
+# pacmen 102
 
-<img src="PacMan1.png">
+
+Basic animation using javascript.
+
+
+<h2>Description</h2>
+
+Pacmen is a factory for making pacmen animations where each pacman that is added to the screen bounces any walls it hits.
+This was created by using the DOM, functions, objects, and if statements.
+
+
+
+The function Run wouldlater call another function CheckPageBounds() which helps "pacman" to head back to the left direction
+once it hits the pageWidth, and then once the position of pacman hits 0 on the X axis this functions allows to bounce to the right
+using if statements.
+
+<h2>Installation</h2>
+You may fork the index.html and open it in your browser of choice. Once in the browser you will see this scree with two buttons.
+The first one is "Add One" and the other one is "Start Game". 
+
+<img src="game.png">
+
++Click on "Add One" to create 2, 5, 10 or mor pacmen.
++CLick on "Start Game" to see them bounce the walls of the screen and,
++Click on "Start Game" again if you wan them to go faster.
+
+<img src="addingpacmen.png">
+
+
+<h2>Usage</h2>
+
+Feel free to open the html file along with the images in the IDE of your choice where you could do the following things:
+
++ Change the animations by editing the img.src
++ Edit the setInterval to make it go slower or faster
++ Add more pacmans to the screen which would allow you to keep practicing loops/if statements or just for fun.
++ Practice more if and for loops by making the direction more dynamic.
++ Or simply look at the beautiful yellow pacmen bounce on your browser.
+
+<h2>Support</h2>
+
+Should you have any questions or concerns email me anakorellana@gmail.com
+
+<h2>RoadMap</h2>
+
+The goal is to practice using if statements, and editing the code by using the DOM to create other elements that could be added to the array of pacmen, change the size of the pacmen or perhaps add code to eliminate a certain number of pacmens once it has reached a certain number. Feel free to be as creative as possibe if desired. 
+
+<h2>License</h2>
+
+This is an open source project.Enjoy!
+
+<img src="images/PacMan1.png">
