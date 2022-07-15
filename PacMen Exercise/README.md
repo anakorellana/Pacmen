@@ -6,7 +6,7 @@ Basic animation using javascript.
 
 <h2>Description</h2>
 
-Pacmen is a factory for making pacmen animations where each pacman that is added to the screen bounces any walls it hits.
+This is a factory for making pacmen animations where every pacman that is added to the screen bounces off any walls it hits.
 This was created by using the DOM, functions, objects, and if statements.
 
 
