@@ -14,7 +14,7 @@ This was created by using the DOM, functions, objects, and if statements.
 You may fork the index.html and open it in your browser of choice. Once in the browser you will see this scree with two buttons.
 The first one is "Add One" and the other one is "Start Game". 
 
-<img src="game.png" height="200"/>
+<img src="game.png" height="300"/>
 <br>
 
 + Click on "Add One" to create 2, 5, 10 or mor pacmen.
@@ -48,4 +48,4 @@ The goal is to practice using if statements, and editing the code by using the D
 
 This is an open source project.Enjoy!
 
-<img src="images/PacMan1.png">
+<img src="images/PacMan1.png" height="300"/>
